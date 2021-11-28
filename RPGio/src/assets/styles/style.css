@@ -11,6 +11,7 @@
  html,body,p,ion-item,h1,h2,ion-title,ion-label,ion-title,b{
     font-family: 'Press Start 2P' !important;
   }
- html, body, ios, ion-page, html.ios, ion-background-color, app-root {
+ html, body, ios, ion-app, ion-router-outlet,app-tabs,ion-tabs,ion-page, html.ios, ion-background-color, app-root, --background {
       background:#173342 !important;
   }
+  

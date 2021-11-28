@@ -1,5 +1,7 @@
 {
   "name": "RPGio",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
